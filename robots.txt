@@ -1,0 +1,7 @@
+# gumoyaz.github.io 호스트 전체 — 검색엔진은 호스트 루트의 robots.txt만 읽는다
+User-agent: *
+Allow: /
+Disallow: /korean-community-crawler/data/state.json
+
+Sitemap: https://gumoyaz.github.io/korean-community-crawler/sitemap.xml
+Sitemap: https://gumoyaz.github.io/korean-community-crawler/rss.xml
